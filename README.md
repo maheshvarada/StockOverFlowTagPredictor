@@ -3,8 +3,8 @@
 
 <h3>Project Overview</h3>
 Stack Overflow is the largest, most trusted online community for developers to learn, 
-share their programming knowledge, and build their careers.
-<br/>
+share their programming knowledge, and build their careers.<br/>
+
 Stack Overflow is something which every programmer use one way or another. Each month, over 50 million developers come to Stack Overflow 
 to learn, share their knowledge, and build their careers. It features questions and answers on a wide range of topics in computer 
 programming. The website serves as a platform for users to ask and answer questions, and, through membership and active participation, 
